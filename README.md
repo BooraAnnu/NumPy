@@ -1,2 +1,2 @@
-# NumPy-
+# NumPy
 Working with Arrays using NumPy 
